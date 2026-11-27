@@ -89,7 +89,6 @@ bank-marketing-data-mining/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── LICENSE
 │
 ├── data/
 │   └── bank-additional-full.csv
@@ -97,7 +96,6 @@ bank-marketing-data-mining/
 └── outputs/
     ├── figures/
     ├── tables/
-    └── project_summary.txt
 ```
 
 ## Installation
@@ -166,6 +164,6 @@ The dataset is credited to Sérgio Moro, Paulo Rita, and Paulo Cortez.
 
 ## Author
 
-Your Name
+Amr-MK
 
 Data Mining Project
